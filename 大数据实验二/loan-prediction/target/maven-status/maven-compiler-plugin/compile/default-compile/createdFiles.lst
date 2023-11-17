@@ -1,6 +1,0 @@
-com/prediction/Instance.class
-com/prediction/KNearestNeighbour$KNNMap.class
-com/prediction/KNearestNeighbour.class
-com/prediction/KNearestNeighbour$KNNReduce.class
-com/prediction/king/Utils/ListWritable.class
-com/prediction/king/Utils/Distance.class
